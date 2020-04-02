@@ -8,3 +8,4 @@
    * messageobj.latitude and messageobj.longitude are keys files
 * MessageHandler process user inputs
 * simpledb.botlevel can be handy to manage multitenancy
+* surprisingly event structure different for different apps that gupshup supports
