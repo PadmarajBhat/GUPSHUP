@@ -5,5 +5,6 @@
 * node debugger is launching :(
   * chrome debugger should have launched
 * whatsapp processing can take map location and has to be processed under LocationHandler 
- * messageobj.latitude and messageobj.longitude are keys files
+   * messageobj.latitude and messageobj.longitude are keys files
 * MessageHandler process user inputs
+* simpledb.botlevel can be handy to manage multitenancy
