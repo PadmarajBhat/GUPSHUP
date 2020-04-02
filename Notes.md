@@ -8,4 +8,6 @@
    * messageobj.latitude and messageobj.longitude are keys files
 * MessageHandler process user inputs
 * simpledb.botlevel can be handy to manage multitenancy
-* surprisingly event structure different for different apps that gupshup supports
+* surprisingly, event structure different for different apps that gupshup supports
+  * it has whatsapp number and senderName
+    * Perhaps name can be same !!!!
