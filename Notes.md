@@ -3,6 +3,7 @@
 * event.messageobj.type determines the type of the message shared.
   * type == "image" : imageURL is sent
    * image sent gets stored in gupshup file manager
+   * there is no access to the root directory even if it is http link to gupshup fm
     
 * enterprise account takes upto 7 days for approval
 * node debugger is launching :(
