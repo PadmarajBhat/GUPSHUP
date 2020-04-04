@@ -16,3 +16,6 @@
 * surprisingly, event structure different for different apps that gupshup supports
   * it has whatsapp number and senderName
     * Perhaps name can be same !!!!
+* There are 2 types of persistences supported in Gupshup:
+  * context.simpledb.botleveldata
+  * context.simpledb.roomleveldata
