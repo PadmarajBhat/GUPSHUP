@@ -21,3 +21,7 @@
     * scope of the data is throughout the life span of bot.
   * context.simpledb.roomleveldata
     * scope of the data is throughout the specific conversation of the user.
+* A new bot can be started through 2 imp ways:
+  * IDE 
+  * flowbuilder
+  * in either ways "default.scr" defines the flow direction
