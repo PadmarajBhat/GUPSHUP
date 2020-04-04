@@ -18,4 +18,6 @@
     * Perhaps name can be same !!!!
 * There are 2 types of persistences supported in Gupshup:
   * context.simpledb.botleveldata
+    * scope of the data is throughout the life span of bot.
   * context.simpledb.roomleveldata
+    * scope of the data is throughout the specific conversation of the user.
