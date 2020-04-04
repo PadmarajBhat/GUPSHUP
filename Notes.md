@@ -5,6 +5,7 @@
    * image sent gets stored in gupshup file manager
    * there is no access to the root directory even if it is http link to gupshup fm
    * this is same for recived or sent images.
+   * persistence of the data is perhaps subjected to enterprise account
 * enterprise account takes upto 7 days for approval
 * node debugger is launching :(
   * chrome debugger should have launched
