@@ -27,3 +27,4 @@
   * in either ways "default.scr" defines the flow direction
 
 * there is debug mode in settings of bot which will let us capture production log
+  * however only error logs gets saved: console.err()
