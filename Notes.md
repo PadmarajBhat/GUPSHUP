@@ -29,4 +29,5 @@
 * there is debug mode in settings of bot which will let us capture production log
   * however only error logs gets saved: console.err()
   * response to user is automatically saved
+  * u need to have JSON.stringify() to get the same in whatsapp or logs
  
