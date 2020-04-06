@@ -31,3 +31,5 @@
   * response to user is automatically saved
   * u need to have JSON.stringify() to get the same in whatsapp or logs
  
+* roomlevel has "state"
+ * what does it indicate? current or past ?
