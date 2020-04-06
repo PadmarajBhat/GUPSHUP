@@ -33,3 +33,4 @@
  
 * roomlevel has "state"
  * what does it indicate? current or past ?
+ * would it matter if it is inside success or when in script handler scope ?
