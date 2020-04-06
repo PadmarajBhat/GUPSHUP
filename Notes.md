@@ -35,3 +35,4 @@
  * what does it indicate? current or past ?
  * would it matter if it is inside success or when in script handler scope ?
  * if value is changed it definitely changes the flow
+ * when it has to be saved if to be used in program ?
