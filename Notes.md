@@ -33,7 +33,8 @@
  
 * roomlevel has "state"
  * what does it indicate? current or past ?
-   * Ans: it indicates the future state
+    * Ans: it indicates the future state
  * would it matter if it is inside success or when in script handler scope ?
+    * more or less same becuase bot executor takes options as the parameter where usually state is changed. But....
  * if value is changed it definitely changes the flow
  * when it has to be saved if to be used in program ?
