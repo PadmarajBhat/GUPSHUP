@@ -37,4 +37,5 @@
  * would it matter if it is inside success or when in script handler scope ?
     * more or less same becuase bot executor takes options as the parameter where usually state is changed. But....
  * if value is changed it definitely changes the flow
+   * it is like setting what state it has to be if bot succeeds
  * when it has to be saved if to be used in program ?
