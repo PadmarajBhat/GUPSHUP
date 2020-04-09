@@ -40,3 +40,4 @@
    * it is like setting what state it has to be if bot succeeds
  * when it has to be saved if to be used in program ?
    * in case of current input processing should be out of success ?
+k
